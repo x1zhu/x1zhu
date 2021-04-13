@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xun Zhu
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on CSE110
+- 💞️ I’m looking for an internship 
 - 📫 How to reach me x1zhu@ucsd.edu
 
 <!---
